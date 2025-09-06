@@ -1,19 +1,38 @@
-## Hi there 👋
+## Hi there 👋, I'm Naval Dourbi
 
-<!--
-**dourbinav/dourbinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend developer passionate about building scalable systems, learning new technologies, and solving real-world problems through clean code and good design.  
 
-Here are some ideas to get you started:
+### 🔭 What I’m working on
+- Backend development with **Node.js**, **NestJS**, and **TypeScript**
+- Exploring **microservices architecture** and **system design**
+- Implementing features with **Prisma ORM + PostgreSQL** and **Redis** for caching
+- Integrating **Kafka** for event-driven notifications (Email, SMS, real-time updates)
+- Working with **Keycloak** & **Firebase** for authentication and OTP flows
+- ONDC-related projects, including validation, domain-specific logging, and payload structure checks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m learning
+- **Advanced backend concepts** like gRPC, distributed systems, and performance tuning  
+- **AI & ML basics**, while also sharpening my **DSA** problem-solving  
+- Cloud-native development (Docker, Kubernetes)
+
+### 👯 I’m looking to collaborate on
+- Backend-heavy projects (APIs, microservices, real-time apps)  
+- Open source contributions around **Node.js**, **NestJS**, **Postgres**, and **Prisma**
+
+### 💬 Ask me about
+- System design & backend architecture  
+- Authentication & authorization (Keycloak, Firebase, JWT)  
+- Database design & PostgreSQL triggers  
+- Event-driven systems with Kafka  
+- Docker & containerization  
+
+### ⚡ Fun fact
+I enjoy learning new things in parallel — backend development, AI, and DSA — and love building projects where I can apply them all together 🚀.
+
+---
+
+📫 **How to reach me**: [Your Email or LinkedIn link here]
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dourbinaval) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navaldourbi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navaldourbi77@gmail.com) 
