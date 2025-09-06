@@ -31,7 +31,7 @@ I enjoy learning new things in parallel — backend development, AI, and DSA —
 
 ---
 
-📫 **How to reach me**: [Your Email or LinkedIn link here]
+📫 **How to reach me**: navaldourbi77@gmail.com
 
 
 ## 🌐 Socials:
